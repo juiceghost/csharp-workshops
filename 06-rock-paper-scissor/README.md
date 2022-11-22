@@ -48,3 +48,7 @@ Börja med att duplicera spelet precis som det fungerade i din tidigare workshop
 
     ---->
     ```
+
+### Extra utmaningar
+
+Gick ovanstående lätt att få till? Håll ordning på statistiken för både den mänskliga spelaren och datorspelaren. Hur ofta väljer spelaren sten, sax eller påse? Datorn borde över tid välja sten, sax eller påse med 1/3 sannolikhet på varje. Ett bra sätt att undersöka hur bra slumptalsgeneratorn fungerar.

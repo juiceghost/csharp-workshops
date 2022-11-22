@@ -110,4 +110,4 @@ Här får du lite idéer på hur du kan göra uppgiften lite mer avancerad. Test
     </aside>
     
 
-Om du gjort dessa utmaningar kan du lämna in denna labb med dessa funktioner inkluderade såklart!
+Om du gjort dessa utmaningar kan visa upp denna labb med dessa funktioner inkluderade såklart!
