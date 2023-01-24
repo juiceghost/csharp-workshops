@@ -3,7 +3,7 @@ Denna uppgiften är tänkt som en första intro till att lära sig ratta DbGate.
 # Vad du ska göra
 
 - [ ]  Använd samma användarnamn som i föregående workshop
-- [ ]  Anslut till Monsters i DbGate med enbart hjälp av SQL queries (credentials ligger i klasskanalen) Använd inte Query-vyn i DbGate, utan de knappar och vyer som finns för att skapa tabeller, läsa in data
+- [ ]  Anslut till Monsters  (hostad postgres) i DbGate med enbart hjälp av SQL queries (credentials ligger i klasskanalen) Använd inte Query-vyn i DbGate, utan de knappar och vyer som finns för att skapa tabeller, läsa in data
 - [ ]  Skapa en ny tabell som heter kkj_course (byt ut kkj som ditt eget användarnamn)
 - [ ]  Skapa fem kolumner, id, name, points, start_date, end_date. Skapa id genom att kryssa i NOT NULL, Is Primary Key samt Is Autoincrement
 - [ ]  Stoppa in 3 olika påhittade kurser i din tabell 
