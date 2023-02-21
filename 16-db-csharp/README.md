@@ -8,7 +8,7 @@ Denna uppgiften är tänkt som en första intro till att lära sig prata DBs fr�
 - [ ]  Skapa en ny klassfil och döp den till CourseModel
 - [ ]  Skapa fält (förslagsvis med prop<tab x 2>) som du döper samt ger samma datatyper som din tabell
 - [ ]  Skapa en ny klassfil PostgresDataAccess
-- [ ]  Skapa funktioner lika de Tim Corey skapar i sin video
+- [ ]  Skapa funktioner lika de Tim Corey skapar i sin video: https://www.youtube.com/watch?v=ayp3tHEkRc0
 - [ ]  Lägg till tre paket med NuGet package manager, Dapper, Npgsql samt ConfigurationManager
 - [ ]  Lägg till en ny Application Configuration File som ska ligga under "C# Items" när du tar new.
 - [ ]  Skapa ett menysystem med följande alternativ
