@@ -1,4 +1,4 @@
-# Välkommen till Workshop-repot för kursen Programmering i C# för NET22 på Chas Academy!
+# Välkommen till Workshop-repot för kurserna Programmering i C# samt Backend och databaser för NET22 på Chas Academy!
 
 Några bra länkar till material. Listan fylls på efterhand.
 
